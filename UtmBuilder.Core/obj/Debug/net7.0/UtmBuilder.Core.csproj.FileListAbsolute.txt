@@ -1,0 +1,12 @@
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.csproj.AssemblyReference.cache
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.AssemblyInfoInputs.cache
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.AssemblyInfo.cs
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.csproj.CoreCompileInputs.cache
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.deps.json
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.dll
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.pdb
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.dll
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/refint/UtmBuilder.Core.dll
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.pdb
+/home/ramonbarroso/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/ref/UtmBuilder.Core.dll
